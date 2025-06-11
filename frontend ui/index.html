@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Email Spam & Phishing Detector</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>🔒 Email Spam & Phishing Detector</h1>
+    <textarea id="emailText" placeholder="Paste the full email body here…" rows="8"></textarea>
+    <button id="analyzeBtn">Analyze</button>
+
+    <div id="result" class="hidden">
+      <h2>Result</h2>
+      <p id="spamCheck"></p>
+      <div id="urlsFound"></div>
+      <p id="urgentWarning"></p>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

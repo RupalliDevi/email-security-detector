@@ -1,0 +1,3 @@
+malicious-site.com
+phishybank.org
+bit.ly
