@@ -10,7 +10,6 @@ An interactive Streamlit-based web application that analyzes email content for p
 - 🌐 **URL Extraction** from email body.
 - ☁️ **Word Cloud Visualization** for high-frequency terms.
 - 📥 **Downloadable JSON Report** for analysis output.
-- 🎨 **Modern Cybersecurity-Themed Dark UI** with glowing effects and animated spinner.
 
 ## 🛠️ Technologies Used
 
@@ -47,6 +46,8 @@ The downloadable result includes:
   "word_count": 124,
   "read_time_min": 0.6
 }
+
+
 Author
 Rupalli Devi
 📧 Email: rupalli2802@gmail.com
