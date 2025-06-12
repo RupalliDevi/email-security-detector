@@ -52,4 +52,5 @@ Author
 Rupalli Devi
 📧 Email: rupalli2802@gmail.com
 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/rupalli-d-2b0659224/)
+# © 2025 Rupalli Devi. All rights reserved.
 
